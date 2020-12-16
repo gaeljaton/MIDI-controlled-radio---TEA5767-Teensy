@@ -3,6 +3,7 @@
 https://forum.pjrc.com/threads/26732-TEA5767-radio-module-on-teensy  
   
 Other digital radio receiver chips to look at :  
+*ordered : RDA5807M https://theorycircuit.com/arduino-rda5807m-fm-receiver/  
 *SI4730  https://www.hackster.io/CesarSound/am-fm-sw-radio-receiver-si4730-si4735-79438f  
 *SI4735  https://github.com/sparkfun/SI4735_Breakout  
 *Si4844-A10 https://www.allaboutcircuits.com/projects/build-an-arduino-controlled-am-fm-sw-radio/  
