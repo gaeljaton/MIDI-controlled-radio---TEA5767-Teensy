@@ -14,3 +14,9 @@ Other digital radio receiver chips to look at :
 http://www.elektronik-labor.de/Lernpakete/UKWradio4.html  
 http://michel.terrier.pagesperso-orange.fr/radiocol/detail/tuner-auxiliaire.htm  
 https://xtronic.org/circuit/fm-radio-receiver-diy-circuit-with-ic-tda7000-and-lm386/ https://www.pcbway.com/project/shareproject/FM_radio_receiver_diy_circuit_with_IC_TDA7000_and_Lm386.html  
+  
+    
+->varactor mod : https://www.youtube.com/watch?v=VmRwze2CE6E  
+-> simple regenerator http://theradioboard.com/rb/viewtopic.php?f=4&t=6413  
+http://theradioboard.com/rb/viewtopic.php?f=4&t=6418  
+http://electronics-diy.com/electronic_schematic.php?id=935  
