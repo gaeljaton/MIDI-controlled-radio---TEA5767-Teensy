@@ -8,5 +8,8 @@ Other digital radio receiver chips to look at :
 *SI4735  https://github.com/sparkfun/SI4735_Breakout  
 *Si4844-A10 https://www.allaboutcircuits.com/projects/build-an-arduino-controlled-am-fm-sw-radio/  https://create.arduino.cc/projecthub/pu2clr/si4844-library-for-arduino-237b6a?ref=tag&ref_id=radio&offset=32  
 *AKC695X https://create.arduino.cc/projecthub/pu2clr/akc695x-arduino-library-lw-mw-sw-am-and-fm-receiver-d3b32a  
+  
 
-
+*CV controlled :  
+http://www.elektronik-labor.de/Lernpakete/UKWradio4.html  
+http://michel.terrier.pagesperso-orange.fr/radiocol/detail/tuner-auxiliaire.htm  
