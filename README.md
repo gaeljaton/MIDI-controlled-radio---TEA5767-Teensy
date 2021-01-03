@@ -21,5 +21,7 @@ https://xtronic.org/circuit/fm-radio-receiver-diy-circuit-with-ic-tda7000-and-lm
 http://theradioboard.com/rb/viewtopic.php?f=4&t=6418  
 http://electronics-diy.com/electronic_schematic.php?id=935  
 
+VLF stuffs :
 https://www.zachpoff.com/resources/vlf-natural-radio-experiments/  
 http://techlib.com/electronics/VLFwhistle.htm#Super-Tiny  
+http://theinspireproject.org/downloads/INSPIRE_VLF3_Rev1C_Assembly_InstructionsOnline.pdf  
