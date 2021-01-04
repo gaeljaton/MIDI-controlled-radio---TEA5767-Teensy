@@ -22,7 +22,8 @@ http://www.la6uoa.net/bilder/QRP/TuningMod.jpg !!!!  http://www.la6uoa.net/bilde
 -> simple regenerator http://theradioboard.com/rb/viewtopic.php?f=4&t=6413  
 http://theradioboard.com/rb/viewtopic.php?f=4&t=6418  
 http://electronics-diy.com/electronic_schematic.php?id=935  
-
+http://circuit-zone.com/index.php?electronic_project=402  
+  
 -> AM valves varactor kit : https://www.6v6.co.uk/receivers/receiver-kits/igen-mk-ii-tube-regenerative-receiver-kit.html  
 
 VLF stuffs :
