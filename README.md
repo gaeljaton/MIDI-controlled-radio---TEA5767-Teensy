@@ -17,9 +17,13 @@ https://xtronic.org/circuit/fm-radio-receiver-diy-circuit-with-ic-tda7000-and-lm
   
     
 ->varactor mod : https://www.youtube.com/watch?v=VmRwze2CE6E  
+http://www.golddredgervideo.com/kc0wox/bitx20amods/varactormod.htm !!!!!!!  
+http://www.la6uoa.net/bilder/QRP/TuningMod.jpg !!!!  http://www.la6uoa.net/bilder/QRP/n_a-1.jpeg  
 -> simple regenerator http://theradioboard.com/rb/viewtopic.php?f=4&t=6413  
 http://theradioboard.com/rb/viewtopic.php?f=4&t=6418  
 http://electronics-diy.com/electronic_schematic.php?id=935  
+
+-> AM valves varactor kit : https://www.6v6.co.uk/receivers/receiver-kits/igen-mk-ii-tube-regenerative-receiver-kit.html  
 
 VLF stuffs :
 https://www.zachpoff.com/resources/vlf-natural-radio-experiments/  
